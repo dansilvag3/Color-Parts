@@ -53,7 +53,6 @@ public class pontos : MonoBehaviour {
 		ptamarelo  = pontuacao4.ToString ();
 		pdark      = pontuacao5.ToString ();
 		ptotal     = total.ToString      ();
-		
 	
 	}		
 }

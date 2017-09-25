@@ -30,6 +30,17 @@ public float  cronos;
 			cronos = 0;		
 		}
 		
+		if(cronos == 0) {
+			DadosDoJogo.faseDoJogoSaved = "Delta2";
+			DadosDoJogo.PontosDaFaseSaved = point.pontuacao;
+			DadosDoJogo.Pontos2DaFaseSaved = point.pontuacao2;
+			DadosDoJogo.Pontos3DaFaseSaved = point.pontuacao3;
+			DadosDoJogo.Pontos4DaFaseSaved = point.pontuacao4;
+			DadosDoJogo.Pontos5DaFaseSaved = point.pontuacao5;
+			DadosDoJogo.PontosTotalSaved = point.total;
+			DadosDoJogo.Savecsv();				
+		}
+		
 		if (cronos == 0 & point.total <= 80){
 			{
 			Application.LoadLevel("Celta");	
