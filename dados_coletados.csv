@@ -1,0 +1,14 @@
+TESTE2,22,Beta,,,,
+TESTE3,33,Beta,,,,
+Danilo,27,Beta,25,12,20,0
+Danilo,27,Delta2,30,6,24,0
+Danilo,27,Bravo3,40,6,28,0
+Danilo,27,Boss4,40,12,24,5
+Danilo,29,Beta,25,2,16,1,0,88
+Danilo,29,Delta2,20,6,20,3,0,88
+Danilo,29,Bravo3,40,10,28,0,0,88
+Danilo,29,Boss4,40,18,28,1,0,88
+TESTE,99,Beta,25,6,16,3,0,100
+TESTE,99,Delta2,30,8,20,5,0,126
+TESTE,99,Bravo3,40,10,28,1,-2,154
+TESTE,99,Boss4,40,18,28,1,0,174
